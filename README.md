@@ -25,7 +25,33 @@ python main.py
 Visualizations will appear in a new window
 
 
-# **2️⃣ Sentiment Analysis using Flask**
+# ** 2️⃣Matrix Operations Tool (NumPy)**
+
+# Matrix Operations Tool
+
+## Overview
+A Python application that allows users to perform **matrix operations** such as addition, subtraction, multiplication, transpose, and determinant calculation. Built using **NumPy**, it provides an interactive interface for input and output.
+
+## Features
+- Addition and subtraction of matrices
+- Multiplication of matrices
+- Transpose of a matrix
+- Determinant calculation (square matrices)
+- Interactive console-based interface
+- Validates input and matrix dimensions
+
+## Technologies Used
+- Python
+- NumPy
+
+## How to Run
+1. Clone the repository
+2. Install NumPy:
+pip install numpy
+3. Run the application:
+python main.py
+
+# **3️⃣ Sentiment Analysis using Flask**
 
 # Sentiment Analysis Web Application
 
@@ -56,29 +82,3 @@ python app.py
 http://127.0.0.1:5000/
 
 
-
-# **3️⃣ Matrix Operations Tool (NumPy)**
-
-# Matrix Operations Tool
-
-## Overview
-A Python application that allows users to perform **matrix operations** such as addition, subtraction, multiplication, transpose, and determinant calculation. Built using **NumPy**, it provides an interactive interface for input and output.
-
-## Features
-- Addition and subtraction of matrices
-- Multiplication of matrices
-- Transpose of a matrix
-- Determinant calculation (square matrices)
-- Interactive console-based interface
-- Validates input and matrix dimensions
-
-## Technologies Used
-- Python
-- NumPy
-
-## How to Run
-1. Clone the repository
-2. Install NumPy:
-pip install numpy
-3. Run the application:
-python main.py
